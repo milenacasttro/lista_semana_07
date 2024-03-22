@@ -48,6 +48,8 @@ C) O código avalia a expressão booleana, imprime o resultado `true` e verifica
 
 D) O código avalia a expressão booleana, imprime o resultado `false` e ordena a lista de números em ordem crescente.
 
+**Alternativa correta**: B) O código avalia a expressão booleana, imprime o resultado `true`, calcula a soma dos números de 1 a 5 e imprime o resultado no console.
+
 
 ______
 
