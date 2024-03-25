@@ -48,7 +48,7 @@ C) O código avalia a expressão booleana, imprime o resultado `true` e verifica
 
 D) O código avalia a expressão booleana, imprime o resultado `false` e ordena a lista de números em ordem crescente.
 
-**Alternativa correta**: B) O código avalia a expressão booleana, imprime o resultado `true`, calcula a soma dos números de 1 a 5 e imprime o resultado no console.
+**Alternativa correta:** B) O código avalia a expressão booleana, imprime o resultado `true`, calcula a soma dos números de 1 a 5 e imprime o resultado no console.
 
 
 ______
@@ -114,7 +114,7 @@ C) A saída de calcularOrcamento() seria: 'Seu saldo é negativo de -100.' e a d
 
 D) As funções calcularOrcamento() e calcularOrcamento2() teriam a mesma saída: 'Seu saldo é negativo de -100.'
 
-**Alternativa correta**: D) As funções calcularOrcamento() e calcularOrcamento2() teriam a mesma saída: 'Seu saldo é negativo de -100.'
+**Alternativa correta:** B) A saída de calcularOrcamento() seria: 'Seu saldo é negativo de -1050.' e a de calcularOrcamento2() seria: 'Seu saldo é negativo de -100.'
 ______
 
 **3)** Considere o seguinte trecho de código em JavaScript:
@@ -142,7 +142,7 @@ C) O código verifica se o número é par, ímpar ou divisível por 3. Se for pa
 
 D) O código verifica se o número é par, se é divisível por 3 ou se é ímpar. Se for par, exibe a mensagem "O número é par!". Se for divisível por 3 (e não for par), exibe a mensagem "O número é divisível por 3!". Se for ímpar (e não for divisível por 3), exibe a mensagem "O número é ímpar e não é divisível por 3!".
 
-**Alternativa correta**: D) O código verifica se o número é par, se é divisível por 3 ou se é ímpar. Se for par, exibe a mensagem "O número é par!". Se for divisível por 3 (e não for par), exibe a mensagem "O número é divisível por 3!". Se for ímpar (e não for divisível por 3), exibe a mensagem "O número é ímpar e não é divisível por 3!".
+**Alternativa correta:** D) O código verifica se o número é par, se é divisível por 3 ou se é ímpar. Se for par, exibe a mensagem "O número é par!". Se for divisível por 3 (e não for par), exibe a mensagem "O número é divisível por 3!". Se for ímpar (e não for divisível por 3), exibe a mensagem "O número é ímpar e não é divisível por 3!".
 
 ______
 
@@ -217,7 +217,7 @@ Compra 4 negada. Saldo insuficiente e limite de crédito excedido.
 
 Compra 5 negada. Saldo insuficiente e limite de crédito excedido.
 
-**Alternativa correta**: D)
+**Alternativa correta:** D)
 
 Compra 1 aprovada. Saldo restante: 800
 
@@ -244,7 +244,7 @@ C) Load -> Initialize -> Render
 
 D) Begin -> Play -> End
 
-**Alternativa correta**: B) Preload -> Create -> Update
+**Alternativa correta:** B) Preload -> Create -> Update
 ______
 
 **6)** Qual é o objetivo principal do módulo Arcade Physics em Phaser.js?
@@ -259,7 +259,7 @@ C) Criar efeitos de áudio para melhorar a experiência do usuário em jogos.
 
 D) Gerenciar a lógica do jogo e a sincronização de eventos em jogos multiplayer.
 
-**Alternativa correta**: B) Simular interações físicas realistas, como colisões e movimentos, em jogos 2D.
+**Alternativa correta:** B) Simular interações físicas realistas, como colisões e movimentos, em jogos 2D.
 
 ______
 

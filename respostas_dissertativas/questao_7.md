@@ -1,5 +1,5 @@
 **7)** Implemente o pseudocódigo para o algoritmo representado no fluxograma da imagem.
-![Uma imagem](assets/image.png)
+______
 
 **Resposta:**
 ```
